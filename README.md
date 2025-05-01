@@ -41,7 +41,7 @@ The code is also available on GitHub at [https://github.com/ar-codingdecoding/Ne
 
 
 ## Contact
-Your Name -[Ajay Raj](ar.bppimt2022@gmail.com)
+[Ajay Raj](ar.bppimt2022@gmail.com)
 
 Project Links:
 - GitHub Repository: [https://github.com/ar-codingdecoding/NeuroNexus](https://github.com/ar-codingdecoding/NeuroNexus)
